@@ -9,4 +9,4 @@ Set up:
 2. Add an alias ```alias message="./iMessage.sh"```
 
 
-Who would you like to message number format as follows: 1234567891
+Number format as follows: 1234567891
